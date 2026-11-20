@@ -1,10 +1,11 @@
-# Weather App
+# Calculator App
 
-A simple web app that shows the current weather of any city.
+A simple web calculator built with HTML, CSS and JavaScript.
 
 ## Features
-- Search weather by city name
-- Shows temperature, humidity and weather condition
+- Basic arithmetic operations
+- Clean and responsive layout
+- Dark mode style support
 
 ## Technologies Used
 - HTML
@@ -17,4 +18,3 @@ A simple web app that shows the current weather of any city.
 
 ## Author
 Sneha Jha
-
